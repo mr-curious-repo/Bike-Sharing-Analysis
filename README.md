@@ -1,5 +1,5 @@
 
-# Bike Sharing Data Science Project 
+# Bike Sharing Exploratory & Predictive Data Analysis
 
 This notebook documents the analysis and model development for the Bike Sharing Dataset. It contains the following steps:
 
