@@ -1,24 +1,17 @@
 
 # Bike Sharing Exploratory & Predictive Data Analysis
 
-This notebook documents the analysis and model development for the Bike Sharing Dataset. It contains the following steps:
+This notebook presents the process of analyzing and developing a model for the Bike Sharing Dataset. The following steps are included in the analysis:
 
-- About the Bike Sharing Dataset
-- Descriptive Analysis
-- Missing Value Analysis
-- Outlier Analysis
-- Correlation Analysis
-- Overview metrics
-- Model Selection
-    -  Ridge Regession
-    - Support Vector Regression
-    - Essemble Regressor
-    - Random Forest Regressor
-- Random Forest
-    - Random Forest Model
-    - Feature importance
-- Conclusion
-- Future Work
+- Overview of the Bike Sharing Dataset
+- Descriptive Analysis to understand the data
+- Missing Value Analysis to identify and handle missing values
+- Outlier Analysis to detect and address outliers
+- Correlation Analysis to investigate the relationship between variables
+- Overview metrics to evaluate the model performance
+- Model Selection including the Ridge Regession, Support Vector Regression, - Essemble Regressor, and Random Forest Regressor
+- Random Forest Model implementation and feature importance analysis
+- Conclusion based on the analysis results
 
 ## About the Bike Sharing Dataset
 
